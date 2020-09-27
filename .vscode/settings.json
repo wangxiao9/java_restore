@@ -1,0 +1,18 @@
+{
+    "beautify.config": "",
+    "workbench.editor.enablePreview": false,
+    "java.home": "D://openjdk-8u41-b04-windows-i586-14_jan_2020//java",
+    "files.exclude": {
+        "**/.git": true,
+        "**/.svn": true,
+        "**/.hg": true,
+        "**/CVS": true,
+        "**/.DS_Store": true,
+        "**/target": true,
+        "**/.classpath": true,
+        "**/.project": true,
+        "**/.idea": true,
+        "**/.settings": true,
+        "**/.mvn": true
+    }
+}
