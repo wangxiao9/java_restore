@@ -1,7 +1,10 @@
 {
     "beautify.config": "",
     "workbench.editor.enablePreview": false,
-    "java.home": "D://openjdk-8u41-b04-windows-i586-14_jan_2020//java",
+    "java.home": "D://install//java",
+    "editor.fontSize": 16,
+    "terminal.integrated.shellArgs.windows": "GBK",
+    "terminal.integrated.fontFamily": "Lucida Console",
     "files.exclude": {
         "**/.git": true,
         "**/.svn": true,
